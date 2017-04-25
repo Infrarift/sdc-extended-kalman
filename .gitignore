@@ -22,3 +22,11 @@ xcuserdata/
 *.xcscmblueprint
 ide_profiles/xcode/Debug/
 ide_profiles/xcode/ExtendedKF.build/
+sdc-ekf.VC.VC.opendb
+sdc-ekf.VC.db
+sdc-ekf.sln
+sdc-ekf.vcxproj
+sdc-ekf.vcxproj.filters
+sdc-ekf.vcxproj.user
+.vs/
+Debug/
